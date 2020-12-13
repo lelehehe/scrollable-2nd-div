@@ -1,0 +1,18 @@
+.root {
+  border: 10px brown solid;
+}
+.blue {
+  background: blue;
+  color: white;
+  border: 5px yellow solid;
+}
+
+.yellow {
+  background: yellow;
+  color: black;
+  border: 5px black solid;
+}
+.red {
+  background: red;
+  color: white;
+}
